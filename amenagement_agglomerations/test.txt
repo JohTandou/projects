@@ -1,0 +1,5 @@
+ville(Paris).
+ville(Lyon).
+ville(Marseille).
+route(Paris,Lyon).
+route(Lyon,Marseille).
